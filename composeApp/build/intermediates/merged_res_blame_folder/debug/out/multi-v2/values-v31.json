@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.coding.meet.gaminiaikmp.composeApp-mergeDebugResources-50:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/Users/josuegonzalez/.gradle/caches/transforms-4/f1ac43488a1979a61d062dc3f340c432/transformed/core-splashscreen-1.0.1/res/values-v31/values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    }
+                }
+            ]
+        }
+    ]
+}

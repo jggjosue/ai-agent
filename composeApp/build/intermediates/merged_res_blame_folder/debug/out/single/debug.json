@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/mipmap-xxxhdpi_ic_logo.webp.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/mipmap-xxxhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/mipmap-anydpi-v26_ic_logo.xml.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/mipmap-anydpi-v26/ic_logo.xml"
+    },
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/mipmap-mdpi_ic_logo_round.webp.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/mipmap-mdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/mipmap-mdpi_ic_logo.webp.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/mipmap-mdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/mipmap-xhdpi_ic_logo_round.webp.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/mipmap-xhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/mipmap-anydpi-v26_ic_logo_round.xml.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/mipmap-anydpi-v26/ic_logo_round.xml"
+    },
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/mipmap-xhdpi_ic_logo.webp.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/mipmap-xhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/mipmap-hdpi_ic_logo.webp.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/mipmap-hdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/drawable_ic_logo_foreground.xml.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/drawable/ic_logo_foreground.xml"
+    },
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/mipmap-xxhdpi_ic_logo.webp.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/mipmap-xxhdpi/ic_logo.webp"
+    },
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/mipmap-xxhdpi_ic_logo_round.webp.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/mipmap-xxhdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/mipmap-hdpi_ic_logo_round.webp.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/mipmap-hdpi/ic_logo_round.webp"
+    },
+    {
+        "merged": "com.coding.meet.gaminiaikmp.composeApp-merged_res-52:/mipmap-xxxhdpi_ic_logo_round.webp.flat",
+        "source": "com.coding.meet.gaminiaikmp.composeApp-androidMain-53:/mipmap-xxxhdpi/ic_logo_round.webp"
+    }
+]
